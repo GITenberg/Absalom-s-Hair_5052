@@ -1,0 +1,31 @@
+_repo: Absalom-s-Hair_5052
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Bjornson, Bjornstjerne
+    - Björnson, Björnstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into English'
+- !lcsh 'Parent and child -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Attitude (Psychology) -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Absalom's Hair
+url: http://www.gutenberg.org/ebooks/5052
